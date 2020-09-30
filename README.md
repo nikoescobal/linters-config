@@ -1,4 +1,4 @@
-# tnw-clone
+# title
 Clone of TNW (thenextweb.com)
 
 This project consists of replicating the The Next Web website putting emphasis on how it behaves differently depending on the size of the screen where the website is rendered. It utilizes media queries and fluid/responsive web design principles.
@@ -24,12 +24,6 @@ git clone git@github.com:nikoescobal/tnw-clone.git
 [Live Demo Link](https://rawcdn.githack.com/nikoescobal/tnw-clone/044aab6fe44927299ba33c5a3f5e9dea0f72c2a7/index.html)
 
 ## Authors
-
-👤 **Kartheek Paturu**
-
-- Github:[@KartheekWD](https://github.com/KartheekWD)
-- Twitter:[@KartheekWD](https://twitter.com/KartheekWD)
-- LinkedIn:[Kartheek Paturu](https://www.linkedin.com/in/kartheekwd)
 
 👤 **Nikolas Escobal**
 
